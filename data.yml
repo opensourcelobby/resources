@@ -1,0 +1,72 @@
+---
+- name: "Open Source Guides"
+  url: "https://opensource.guide/"
+  description: "Guide on creating, managing and growing OSS projects"
+  categories: [Guides]
+  type: ["guides"]
+
+- name: "OpenSSF Best Practices Badge Program"
+  url: "https://www.bestpractices.dev/en"
+  description: "Helps projects adopt key security and quality practices."
+  categories: [Infrastructure, Security]
+  type: ["guides", "badge"]
+
+- name: "Grants by FOSS United"
+  url: "https://fossunited.org/grants"
+  description: "Grants for Indian FOSS projects."
+  categories: [Funding]
+  type: ["funds"]
+
+- name: "FLOSS/fund by Zerodha"
+  url: "https://floss.fund/"
+  description: "No strings attached funding for critical projects."
+  categories: [Funding]
+  type: ["funds"]
+
+- name: "fundingjson"
+  url: "https://fundingjson.org"
+  description: "Open JSON manifest for describing FOSS funding requirements."
+  categories: [Funding]
+  type: ["tools", "specification"]
+
+- name: "Conventional Comments"
+  url: "https://conventionalcomments.org/"
+  description: "Comments that are easy to grok and grep."
+  categories: [Guides, Documentation]
+  type: ["guides"]
+
+- name: "The Good Docs Project"
+  url: "https://www.thegooddocsproject.dev/"
+  description: "Templates that help you create quality documentation faster and easier."
+  categories: [Documentation, Guides]
+  type: ["tools", "guides"]
+
+- name: "CLA Assistant"
+  url: "https://cla-assistant.io/"
+  description: "Easily handle Contributor License Agreements (CLAs)."
+  categories: [Legal, Licensing]
+  type: ["tools"]
+
+- name: "Developer Certificate of Origin"
+  url: "https://developercertificate.org/"
+  description: "Lighter alternative to a Contributor License Agreement (CLA)."
+  categories: [Legal, Licensing]
+  type: ["agreements"]
+
+- name: "GitHub SOSS Fund"
+  url: "https://resources.github.com/github-secure-open-source-fund/"
+  description: "Funding and security training for OSS projects."
+  categories: [Funding, Security]
+  type: ["funds", "training"]
+
+- name: "Lemonade Stand"
+  url: "https://github.com/nayafia/lemonade-stand"
+  description: "A handy guide to financial support for open source."
+  categories: [Funding]
+  type: ["guides"]
+
+- name: "Security Mindsets Worksheet"
+  url: "https://eoss-om-communitycalls.github.io/2025-05-22-security-mindsets-worksheet/"
+  description: "Worksheet - Developing a Security Mindset for Your Open Source Project"
+  categories: [Security, Guides]
+  type: ["worksheets"]  
