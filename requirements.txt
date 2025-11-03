@@ -1,2 +1,6 @@
-dirmaker
+setuptools
+wheel
+cython
 jinja2
+PyYAML
+dirmaker
