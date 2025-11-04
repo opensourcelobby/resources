@@ -8,13 +8,13 @@
   categories: [Guides]
   type: ["guides"]
 
-# Security
+- name: "Open Source Way"
+  url: "https://www.theopensourceway.org/"
+  description: "Guidebook for managing open source communities"
+  categories: [Guides, Community]
+  type: ["guides"]
 
-- name: "OpenSSF Best Practices Badge Program"
-  url: "https://www.bestpractices.dev/en"
-  description: "Helps projects adopt key security and quality practices."
-  categories: [Infrastructure, Security]
-  type: ["guides", "badge"]
+# Security
 
 - name: "Security Mindsets Worksheet"
   url: "https://eoss-om-communitycalls.github.io/2025-05-22-security-mindsets-worksheet/"
@@ -108,6 +108,30 @@
   categories: [Funding]
   type: ["platforms"]
 
+- name: "NLNet Foundation"
+  url: "https://nlnet.nl/"
+  description: "Funding open source projects that contribute to an open internet"
+  categories: [Funding]
+  type: ["funds"]
+
+- name: "Open Tech Fund"
+  url: "https://www.opentech.fund/"
+  description: "For Internet freedom and security projects."
+  categories: [Funding]
+  type: ["funds"]
+
+- name: "Mozilla Builders Accelerator"
+  url: "https://builders.mozilla.org/programs/"
+  description: "Support for Open Source AI projects"
+  categories: [Funding]
+  type: ["funds"]
+
+- name: "Open Source Collective"
+  url: "https://www.oscollective.org/"
+  description: "Fiscal hosting and financial management for open source communities."
+  categories: [Funding, Infrastructure]
+  type: ["platforms"]
+
 
 # Documentation
 
@@ -173,6 +197,13 @@
   categories: [Legal, Licensing, Security]
   type: ["tools", "platforms"]
 
+
+- name: "FOSSology"
+  url: "https://www.fossology.org/"
+  description: "Toolkit for license scanning and compliance."
+  categories: [Legal, Tools]
+  type: ["tools"]
+
 # Community
 
 - name: "Forklore"
@@ -231,7 +262,32 @@
   categories: [Tools]
   type: ["platforms", "knowledge-base"]
 
+- name: "OSS Review Toolkit"
+  url: "https://oss-review-toolkit.org/"
+  description: "CLI tools to automate software compliance checks"
+  categories: [Tools, Legal]
+  type: ["tools"]
+
+- name: "Dependabot"
+  url: "https://github.com/dependabot"
+  description: "Automated dependency updates built into GitHub."
+  categories: [Tools]
+  type: ["tools", "automation"]
+
+- name: "Allstar"
+  url: "https://github.com/ossf/allstar"
+  description: "GitHub App to set and enforce security policies."
+  categories: [Security, Tools]
+  type: ["tools", "automation"]
+
+- name: "Scorecard"
+  url: "https://securityscorecards.dev/"
+  description: "Automated security health metrics for open source projects."
+  categories: [Security]
+  type: ["tools"]
+
 # Events & Conferences
+
 - name: "FOSS Backstage"
   url: "https://foss-backstage.de//"
   description: "Conference focused on governance, collaboration, and tooling in FOSS"
@@ -249,4 +305,18 @@
   description: "India's largest FOSS festival"
   categories: [Community, Events]
   type: ["conferences"]
+
+# Infrastructure and Project Health
+
+- name: "ClearlyDefined"
+  url: "https://clearlydefined.io/"
+  description: "Crowdsourced platform for improving license and source metadata clarity."
+  categories: [Legal, Licensing, Infrastructure]
+  type: ["platforms"]
+
+- name: "OpenSSF Best Practices Badge Program"
+  url: "https://www.bestpractices.dev/en"
+  description: "Helps projects adopt key security and quality practices."
+  categories: [Infrastructure, Security]
+  type: ["guides", "badge"]
 
