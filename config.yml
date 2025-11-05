@@ -13,5 +13,5 @@ taxonomies: ["type"]
 
 site_name: "Resources for FOSS Maintainers"
 site_description: "A directory of resources for FOSS maintainers"
-page_title: "{category} - Directory of resources for FOSS maintainers."
-meta_description: "Directory of {category} resources for FOSS maintainers."
+page_title: "{category} resources for FOSS maintainers."
+meta_description: "Directory of resources for FOSS maintainers."
