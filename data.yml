@@ -208,7 +208,7 @@
 
 - name: "Forklore"
   url: "https://forklore.in/"
-  description: "Knowledge base and resources for the Indian FOSS community"
+  description: "Directory of Indian FOSS maintainers"
   categories: [Community]
   type: ["knowledge-base"] 
 
